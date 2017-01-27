@@ -7,3 +7,11 @@
     Patch by Alexander Perlis <aprl@math.arizona.edu>
     http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=351993
 
+2017-01-27 by me
+  with DEBIAN patches and mcpat patches
+  - TLS patch
+  - Libcrypto patch
+  - 557741-remote-addr.patch (DEBIAN)
+  - 508759-garbage.patch (DEBIAN)
+  - LDFLAGS.patch (DEBIAN)
+  - bug584162-fix.patch (DEBIAN)
